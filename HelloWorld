@@ -1,1 +1,6 @@
 ## This is a markdown file
+I created this md file in GitHub because I've been unable to push from Git.
+The error message I get is as follows:
+ $ git push HelloWorld.md https://github.com/MEStrohfus/DataScienceCoursera.git/
+ fatal: remote part of refspec is not a valid name in https://github.com/MEStrohfus/DataScienceCoursera.git/
+Advice would be appreciated.
